@@ -1,9 +1,28 @@
-<html>
-    <head>
-        <link rel="stylesheet" href="CSS.css">
-    </head>
-    <body>
-    <div class="panel" id="home">
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>Pure CSS panels</title>
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,100,700' rel='stylesheet' type='text/css'>
+
+<script src="https://vincentgarreau.com/particles.js/particles.js"></script>
+
+<meta name="viewport" content="width=device-width">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+  <!-- Home Panel  -->
+<div class="panel" id="home">
     <div id="particles"></div>
 
     <h1>Pure CSS panels</h1> 
@@ -31,5 +50,9 @@
   <a class="menu__link" href="#slice" data-hover="Slice">Slice</a>
   <a class="menu__link" href="#fade" data-hover="Fade">Fade</a> 
 </div>
-    </body>
+  
+  
+
+</body>
+
 </html>
