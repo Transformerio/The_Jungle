@@ -123,7 +123,7 @@ a {
 /*  Specific panel "Slice" */
 /* •••••••••••••••••••••••••••••••• */
 .panel#slice {
-  background-color: #E53935;
+  background-color: #c3cddd;
   transition: all 800ms cubic-bezier(0.19, 1, 0.56, 1);
   -webkit-transform: translate3d(0, -100%, 0);
           transform: translate3d(0, -100%, 0);
